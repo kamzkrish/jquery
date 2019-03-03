@@ -1,0 +1,321 @@
+[{
+        "_id": "5a577343ab870df396f936a5",
+        "username": "Lupe Holcomb",
+        "balance": "$3,737.23",
+        "picture": "http://placehold.it/32x32",
+        "age": 32,
+        "eyeColor": "green",
+        "name": "Kathleen Boone",
+        "gender": "female",
+        "company": "DANCERITY",
+        "email": "kathleenboone@dancerity.com",
+        "phone": "+1 (940) 492-3386",
+        "address": "452 Stone Avenue, Spokane, North Dakota, 2108",
+        "about": "Et Lorem aliqua laboris sint dolor ea consectetur occaecat ullamco qui officia id in. Enim esse veniam ea nisi incididunt magna sit occaecat. Ullamco occaecat consequat non dolore ullamco. Labore id eiusmod id fugiat ipsum eu ea proident nulla irure. Pariatur elit officia magna ad consectetur aute est non excepteur Lorem occaecat commodo consequat cillum.\r\n",
+        "registered": "2015-09-05T10:54:56 +04:00",
+        "tags": [
+            "laborum",
+            "adipisicing",
+            "mollit",
+            "id",
+            "sunt",
+            "ipsum",
+            "minim"
+        ],
+        "friends": [{
+                "id": 0,
+                "name": "Pace Frye"
+            },
+            {
+                "id": 1,
+                "name": "Workman Hester"
+            },
+            {
+                "id": 2,
+                "name": "Nolan Kent"
+            }
+        ],
+        "greeting": "Hello, Kathleen Boone! You have 4 unread messages.",
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "_id": "5a577343448603c2fc0fcac7",
+        "username": "Curry Shaw",
+        "balance": "$3,803.40",
+        "picture": "http://placehold.it/32x32",
+        "age": 26,
+        "eyeColor": "blue",
+        "name": "Chase Valdez",
+        "gender": "male",
+        "company": "STOCKPOST",
+        "email": "chasevaldez@stockpost.com",
+        "phone": "+1 (928) 556-2329",
+        "address": "404 Norman Avenue, Hannasville, Hawaii, 4749",
+        "about": "Voluptate cupidatat cupidatat occaecat labore cillum. Irure irure nisi Lorem velit sunt ipsum. Sit tempor est ea incididunt ullamco.\r\n",
+        "registered": "2015-05-03T11:06:57 +04:00",
+        "tags": [
+            "tempor",
+            "sint",
+            "ipsum",
+            "incididunt",
+            "consectetur",
+            "dolore",
+            "exercitation"
+        ],
+        "friends": [{
+                "id": 0,
+                "name": "Skinner Leblanc"
+            },
+            {
+                "id": 1,
+                "name": "Lakeisha Robles"
+            },
+            {
+                "id": 2,
+                "name": "Leblanc Page"
+            }
+        ],
+        "greeting": "Hello, Chase Valdez! You have 8 unread messages.",
+        "favoriteFruit": "apple"
+    },
+    {
+        "_id": "5a577343d11f3753604ab586",
+        "username": "Florence Rowland",
+        "balance": "$2,280.73",
+        "picture": "http://placehold.it/32x32",
+        "age": 27,
+        "eyeColor": "green",
+        "name": "Suarez Bernard",
+        "gender": "male",
+        "company": "TELLIFLY",
+        "email": "suarezbernard@tellifly.com",
+        "phone": "+1 (905) 546-3109",
+        "address": "618 Landis Court, Lawrence, Kansas, 8171",
+        "about": "Cillum non ex elit sunt consectetur sint qui officia exercitation aliquip. Ullamco excepteur non mollit minim dolor ullamco laboris velit qui nostrud. Sit veniam qui culpa reprehenderit reprehenderit amet nulla et nostrud ut. Amet voluptate reprehenderit deserunt exercitation sunt culpa laboris exercitation quis pariatur nulla ea labore. Exercitation voluptate consectetur ipsum sunt mollit enim et id elit. Ad cupidatat eu adipisicing velit consequat esse reprehenderit ipsum ullamco occaecat sit eiusmod sunt consequat.\r\n",
+        "registered": "2016-11-04T02:18:18 +04:00",
+        "tags": [
+            "fugiat",
+            "nisi",
+            "ipsum",
+            "laborum",
+            "labore",
+            "Lorem",
+            "consectetur"
+        ],
+        "friends": [{
+                "id": 0,
+                "name": "Debbie Justice"
+            },
+            {
+                "id": 1,
+                "name": "Ashley Grant"
+            },
+            {
+                "id": 2,
+                "name": "Stanton Guy"
+            }
+        ],
+        "greeting": "Hello, Suarez Bernard! You have 10 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "5a5773435e94d3a4efcfd2a6",
+        "username": "Moss Blackburn",
+        "balance": "$2,062.74",
+        "picture": "http://placehold.it/32x32",
+        "age": 22,
+        "eyeColor": "green",
+        "name": "York Strickland",
+        "gender": "male",
+        "company": "TERASCAPE",
+        "email": "yorkstrickland@terascape.com",
+        "phone": "+1 (897) 576-2951",
+        "address": "713 Barlow Drive, Enlow, Ohio, 6405",
+        "about": "Officia commodo cupidatat occaecat cillum id pariatur aliquip amet laboris. Commodo cillum ut ea quis aliquip tempor ullamco nisi commodo nisi excepteur. Esse voluptate occaecat minim aliquip non. Occaecat cillum do nisi proident consequat pariatur enim amet aute sit fugiat et. Mollit incididunt ipsum laboris nostrud mollit non dolor magna veniam occaecat Lorem officia ex. Eiusmod dolor cillum est velit quis sunt veniam consequat exercitation ut. Et dolore cupidatat officia anim id magna enim dolor quis occaecat labore id ut.\r\n",
+        "registered": "2015-11-23T09:44:49 +05:00",
+        "tags": [
+            "est",
+            "incididunt",
+            "id",
+            "consectetur",
+            "dolor",
+            "est",
+            "culpa"
+        ],
+        "friends": [{
+                "id": 0,
+                "name": "Ericka Workman"
+            },
+            {
+                "id": 1,
+                "name": "Hull Clayton"
+            },
+            {
+                "id": 2,
+                "name": "Harris Mejia"
+            }
+        ],
+        "greeting": "Hello, York Strickland! You have 1 unread messages.",
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "_id": "5a577343c77743f7f9572e90",
+        "username": "Carpenter Berg",
+        "balance": "$1,871.72",
+        "picture": "http://placehold.it/32x32",
+        "age": 36,
+        "eyeColor": "brown",
+        "name": "Ware Neal",
+        "gender": "male",
+        "company": "ANIVET",
+        "email": "wareneal@anivet.com",
+        "phone": "+1 (834) 475-3569",
+        "address": "815 Kings Place, Berlin, Delaware, 5471",
+        "about": "Minim ut nisi consectetur aliquip nostrud laborum id velit culpa. Laborum duis ad nisi aliqua deserunt elit commodo. Velit irure exercitation non esse exercitation fugiat ea. Reprehenderit deserunt sint reprehenderit incididunt exercitation eiusmod velit eiusmod occaecat tempor. Occaecat ullamco proident irure Lorem id exercitation voluptate consequat.\r\n",
+        "registered": "2014-06-16T07:33:24 +04:00",
+        "tags": [
+            "et",
+            "laborum",
+            "aliquip",
+            "elit",
+            "ad",
+            "aute",
+            "deserunt"
+        ],
+        "friends": [{
+                "id": 0,
+                "name": "Paul Valenzuela"
+            },
+            {
+                "id": 1,
+                "name": "Sybil Frank"
+            },
+            {
+                "id": 2,
+                "name": "Aurora Raymond"
+            }
+        ],
+        "greeting": "Hello, Ware Neal! You have 2 unread messages.",
+        "favoriteFruit": "strawberry"
+    },
+    {
+        "_id": "5a577343801987065d50cc3e",
+        "username": "Mathis Potts",
+        "balance": "$1,025.65",
+        "picture": "http://placehold.it/32x32",
+        "age": 36,
+        "eyeColor": "brown",
+        "name": "Carey Huffman",
+        "gender": "female",
+        "company": "ATGEN",
+        "email": "careyhuffman@atgen.com",
+        "phone": "+1 (876) 521-2351",
+        "address": "606 Lake Avenue, Beechmont, Wyoming, 4438",
+        "about": "Laborum nulla incididunt elit qui esse culpa excepteur velit laborum exercitation laboris nulla velit cupidatat. Ipsum cillum labore nulla veniam ullamco nisi et enim. Laborum enim eiusmod ut veniam veniam non dolore deserunt aliqua laborum. Dolore consequat ex consequat eu sint cillum in reprehenderit quis ad. Laborum commodo ad ipsum excepteur occaecat ad laborum nostrud consectetur commodo. Labore minim exercitation esse enim enim ipsum magna ad reprehenderit sit consequat.\r\n",
+        "registered": "2017-10-26T12:08:05 +04:00",
+        "tags": [
+            "pariatur",
+            "ea",
+            "elit",
+            "consequat",
+            "quis",
+            "velit",
+            "et"
+        ],
+        "friends": [{
+                "id": 0,
+                "name": "Holloway Espinoza"
+            },
+            {
+                "id": 1,
+                "name": "Day Summers"
+            },
+            {
+                "id": 2,
+                "name": "Pierce Obrien"
+            }
+        ],
+        "greeting": "Hello, Carey Huffman! You have 5 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "5a5773433af92dd7d45644da",
+        "username": "Wooten Black",
+        "balance": "$3,913.15",
+        "picture": "http://placehold.it/32x32",
+        "age": 21,
+        "eyeColor": "green",
+        "name": "Davenport Gibbs",
+        "gender": "male",
+        "company": "BALOOBA",
+        "email": "davenportgibbs@balooba.com",
+        "phone": "+1 (836) 424-3063",
+        "address": "129 Forrest Street, Alamo, Rhode Island, 3149",
+        "about": "Culpa sint reprehenderit aliquip laborum nisi consectetur eiusmod. Commodo elit ad minim cupidatat. Aute cillum enim est veniam quis ex consectetur minim. Minim pariatur consectetur cupidatat ipsum consectetur do qui reprehenderit occaecat laboris esse incididunt irure. Cillum est magna ad sunt veniam consequat aliqua exercitation.\r\n",
+        "registered": "2017-01-31T09:54:25 +05:00",
+        "tags": [
+            "culpa",
+            "ullamco",
+            "commodo",
+            "incididunt",
+            "commodo",
+            "veniam",
+            "sint"
+        ],
+        "friends": [{
+                "id": 0,
+                "name": "Renee Cote"
+            },
+            {
+                "id": 1,
+                "name": "Beasley Snider"
+            },
+            {
+                "id": 2,
+                "name": "Webb Estrada"
+            }
+        ],
+        "greeting": "Hello, Davenport Gibbs! You have 3 unread messages.",
+        "favoriteFruit": "banana"
+    },
+    {
+        "_id": "5a577343cdeb8c52359c91ea",
+        "username": "Benita Sims",
+        "balance": "$2,480.93",
+        "picture": "http://placehold.it/32x32",
+        "age": 24,
+        "eyeColor": "brown",
+        "name": "Osborn Guerrero",
+        "gender": "male",
+        "company": "MAXIMIND",
+        "email": "osbornguerrero@maximind.com",
+        "phone": "+1 (882) 538-3182",
+        "address": "608 Campus Road, Fostoria, Arkansas, 3095",
+        "about": "Esse cillum aliquip consequat laborum ullamco dolor tempor nostrud eiusmod id sit laborum. Eiusmod fugiat magna duis magna eu. Voluptate ullamco exercitation nisi fugiat reprehenderit excepteur incididunt. Do Lorem aute ea adipisicing laboris adipisicing do commodo.\r\n",
+        "registered": "2017-03-26T12:35:53 +04:00",
+        "tags": [
+            "velit",
+            "fugiat",
+            "magna",
+            "amet",
+            "sunt",
+            "excepteur",
+            "deserunt"
+        ],
+        "friends": [{
+                "id": 0,
+                "name": "Blackwell Glass"
+            },
+            {
+                "id": 1,
+                "name": "Claudette Vincent"
+            },
+            {
+                "id": 2,
+                "name": "Iris Ellis"
+            }
+        ],
+        "greeting": "Hello, Osborn Guerrero! You have 4 unread messages.",
+        "favoriteFruit": "strawberry"
+    }
+]
